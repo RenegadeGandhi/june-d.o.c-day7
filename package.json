@@ -1,0 +1,32 @@
+{
+  "name": "june-d.o.c-day7",
+  "version": "1.0.0",
+  "description": "Using template engines",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenegadeGandhi/june-d.o.c-day7.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenegadeGandhi/june-d.o.c-day7/issues"
+  },
+  "homepage": "https://github.com/RenegadeGandhi/june-d.o.c-day7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^2.0.4"
+  },
+  "engines": {
+    "node": "12.16.1"
+  }
+}
